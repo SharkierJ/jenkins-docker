@@ -1,0 +1,10 @@
+commit 4945fce404a72f27b7ae3445541bb018aacf9557
+tree 2b9f110bd590c8199d94b570b63102c4a479d164
+parent c710b83f69039cd0ff9a190bc1071c58eeba110c
+author sharkierj <sharkierj@gmail.com> 2021-12-10 22:30:36 +0200
+committer sharkierj <sharkierj@gmail.com> 2021-12-10 22:30:36 +0200
+
+    cleaning up repo
+
+
+:100644 100644 82c866f544b71dc7568f253bbbebd95eeb71d1e0 77244692b8ebe042238bc60f2249f4886e3449d2 M	Dockerfile

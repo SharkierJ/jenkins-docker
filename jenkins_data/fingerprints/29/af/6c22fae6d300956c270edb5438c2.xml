@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-12-10 19:35:25.652 UTC</timestamp>
+  <md5sum>29af6c22fae6d300956c270edb5438c2</md5sum>
+  <fileName>Credential id=sharkierj name=sharkierj/******</fileName>
+  <usages>
+    <entry>
+      <string>maven-test</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>tomcat-docker-build</string>
+      <ranges>1-21</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

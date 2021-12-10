@@ -1,0 +1,11 @@
+commit 3618488e96fe09fc6322e82a6b010fcbc7da523a
+tree 51046adbb384961ada1bd5258c9f4020725c87af
+parent bc1cbb4d497a19fdeea98871fa6cbabb19bca2e3
+author sharkierj <sharkierj@gmail.com> 2021-12-10 22:13:03 +0200
+committer sharkierj <sharkierj@gmail.com> 2021-12-10 22:13:03 +0200
+
+    testing jenkins build
+
+
+:100644 100644 83b9ba3a54c473ef3d910ee15eb0cb8b282adb33 82c866f544b71dc7568f253bbbebd95eeb71d1e0 M	Dockerfile
+:100644 100644 994c051b3594892e28aca43ce02c464668f2cc81 c86eff0e855eb0f1ad7955f5c7f91c20afc869f8 M	test

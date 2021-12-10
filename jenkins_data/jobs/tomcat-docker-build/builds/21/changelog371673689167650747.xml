@@ -1,0 +1,10 @@
+commit a14c5f54ab25ffc4ce3db58d1e2947d0e3ae8713
+tree ed40c0eaa4d791af7dc8054993518fca8709fb0b
+parent 8299be90027e71462a1a99611d280f95e0cc4465
+author sharkierj <sharkierj@gmail.com> 2021-12-10 23:24:22 +0200
+committer sharkierj <sharkierj@gmail.com> 2021-12-10 23:24:22 +0200
+
+    update docker-compose.yml
+
+
+:100644 100644 cf6e1bf17e01392c5695fe70f0b05e936b80d98e 71bf0b57bd9dc136ab1a3e16225aff3afb5f6de8 M	docker-compose.yml
