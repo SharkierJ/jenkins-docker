@@ -1,6 +1,0 @@
-#FileLock
-#Fri Dec 10 19:43:00 UTC 2021
-server=172.21.0.2\:43989
-hostName=jenkins
-method=file
-id=17da5debdd0872f0ac240731439d5bef61beac86250
