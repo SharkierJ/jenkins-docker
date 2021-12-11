@@ -9,7 +9,7 @@ A simple docker containter running jenkins with docker in docker builds
 
 > docker-compose up -d
 
-# Access localhost on http or https
+# Access localhost on http 8080
 
 > http://localhost:8080
 
